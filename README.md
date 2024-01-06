@@ -9,3 +9,5 @@ user account:
 email: user@user.com
 password: 123456
 
+To make payment account No through card : 4242 4242 4242 4242
+
